@@ -1,0 +1,7 @@
+new file i am creating for pushing into git repository 
+first i had installed git  and then i had given the command git config --global user.name "Pankaj310892"
+git config --global user.email "er.pankajraisharma@hotmail.com"
+git config --list <- this showed that data is saved in .gitconfig file
+we created a new directory and then inside that directory i cloned git repository using command git clone urlOfGit
+then we made this file in the FirstRepository
+next we will commit the change and push it into 
